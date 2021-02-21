@@ -3,8 +3,7 @@
 import argparse
 import os
 import sys
-
-from deletetweets import deletetweets
+import deletetweets
 
 __author__ = "Koen Rouwhorst"
 __version__ = "1.0.6"
